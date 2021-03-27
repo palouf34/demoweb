@@ -1,0 +1,37 @@
+body{
+    background-image: url(images/limousine.jpg);
+}
+h1
+{
+  font-size: 32px;
+  text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px #000;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #090;
+  padding:16px;
+  font-weight:lighter;
+  -moz-box-shadow: 2px 2px 6px #888;  
+  -webkit-box-shadow: 2px 2px 6px #888;  
+  box-shadow:2px 2px 6px #888;  
+  text-align:center;
+  display:block;
+  margin:16px;
+  background-image:url(images/limousine.jpg);  
+}
+#menu{
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    
+}
+#menu li{
+    display:inline-block;
+    padding-right: 20px;
+    padding-right: 20px;
+}
+#acceuil{
+    font-size: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
